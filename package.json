@@ -1,0 +1,21 @@
+{
+  "name": "purrfect-marshmallow-theme",
+  "displayName": "Purrfect Marshmallow Theme",
+  "description": "Pastel pink & lavender Aestheic for Vs Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purrfect Marshmallow Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purrfect Marshmallow Theme-color-theme.json"
+      }
+    ]
+  }
+}
