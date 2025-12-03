@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Purrfect Marshmallow Theme",
+        "label": "Purrfect Marshmallow - Lavender Night",
         "uiTheme": "vs-dark",
-        "path": "./themes/Purrfect Marshmallow Theme-color-theme.json"
+        "path": "./themes/purrfect-marshmallow-dark.json"
+      },
+      {
+        "label": "Purrfect Marshmallow - Pastel Pink",
+        "uiTheme": "hc-light",
+        "path": "./themes/purrfect-marshmallow-light.json"
       }
     ]
   }
