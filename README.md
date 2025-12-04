@@ -1,16 +1,65 @@
-# purrfect-marshmallow-theme README
+# 🐾💗 Purrfect Marshmallow Theme
 
-## Working with Markdown
+### A pastel–pink & lavender VS Code theme for soft–aesthetic lovers
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<img src="./icon/purrfect-mug-cat.png" alt="Banner" width="100">
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+A dreamy, cozy, soft-aesthetic theme designed for developers who love cute vibes, pastel palettes, and cute coding environments.
 
-## For more information
+Featuring a marshmallow cat peeping from a mug as your icon, your new coding companion! 💗💜
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+---
 
-**Enjoy!**
+## 🎀 Features
+
+- 🌸 Soft pastel pink & lavender color palette
+- 💗 Light & Dark theme variants
+- 🎨 Aesthetic syntax highlighting
+- ☁️ Cozy selection & cursor colors
+- 🐱 Mug-marshmallow cat icon for maximum cuteness
+- 🫶 Easy on the eyes for long coding sessions
+- ✨ Designed for clean, minimal, soft-girl coding vibes
+
+## ☁️💜 Screenshot Preview
+
+> _Coming soon!_ (Add your screenshots here, Diana 💗)
+
+## 📦 Installation
+
+### **From VS Code Marketplace**
+
+1. Open VS Code
+2. Go to **Extensions → Marketplace**
+3. Search for **“Purrfect Marshmallow Theme”**
+4. Click **Install**
+
+### **From Source (GitHub)**
+
+```bash
+git clone https://github.com/Diana-nyamai/purrfect-marshmallow-theme.git
+cd purrfect-marshmallow-theme
+npm install
+```
+
+---
+
+### **Contribution**
+
+Pull requests are welcome!
+
+If you'd like to add new cute accents, pastel variants, or icons, feel free to contribute.
+
+### **Support the Theme**
+
+If this theme makes your coding sessions cuter and cozier:
+
+⭐ Star the repo
+
+🌸 Share it with your aesthetic coder friends
+
+💗 Tag me if you post about it!.
+
+### **Tag Me On Socials!**
+
+- 🌸 Instagram: [@ndinda_codes](https://www.instagram.com/ndinda_codes)
+- 🎀 Tiktok: [@ndinda_codes](https://www.tiktok.com/@ndinda_codes)
