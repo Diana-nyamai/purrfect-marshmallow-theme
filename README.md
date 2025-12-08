@@ -2,7 +2,7 @@
 
 ### A pastel–pink & lavender VS Code theme for soft–aesthetic lovers
 
-<img src="./icon/purrfect-mug-cat.png" alt="Banner" width="100">
+<img src="https://res.cloudinary.com/dz4rr8qtd/image/upload/v1764901992/purrfect-mug-cat_hug4ox.png" alt="Banner" width="100">
 
 A dreamy, cozy, soft-aesthetic theme designed for developers who love cute vibes, pastel palettes, and cute coding environments.
 
