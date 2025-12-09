@@ -1,10 +1,26 @@
 {
   "name": "purrfect-marshmallow-theme",
   "displayName": "Purrfect Marshmallow Theme",
-  "description": "Pastel pink & lavender Aestheic for Vs Code",
-  "version": "0.0.1",
+  "description": "Pastel pink & lavender Aesthetic for VS Code",
+  "version": "0.0.2",
+  "publisher": "diananyamai",
+  "icon": "icon/purrfect-mug-cat.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Diana-nyamai/purrfect-marshmallow-theme"
+  },
+  "keywords": [
+    "theme",
+    "color-theme",
+    "pastel",
+    "pink",
+    "lavender",
+    "aesthetic",
+    "marshmallow",
+    "purrfect"
+  ],
   "engines": {
-    "vscode": "^1.106.1"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
