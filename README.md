@@ -16,13 +16,15 @@ Featuring a marshmallow cat peeping from a mug as your icon, your new coding com
 - 💗 Light & Dark theme variants
 - 🎨 Aesthetic syntax highlighting
 - ☁️ Cozy selection & cursor colors
-- 🐱 Mug-marshmallow cat icon for maximum cuteness
 - 🫶 Easy on the eyes for long coding sessions
 - ✨ Designed for clean, minimal, soft-girl coding vibes
 
 ## ☁️💜 Screenshot Preview
+### Dark mode
+<img src="https://res.cloudinary.com/dz4rr8qtd/image/upload/v1765204859/Screenshot_From_2025-12-08_17-40-26_indfg1.png" >
 
-> _Coming soon!_ (Add your screenshots here, Diana 💗)
+### Light mode
+<img src="https://res.cloudinary.com/dz4rr8qtd/image/upload/v1765205025/Screenshot_From_2025-12-08_17-43-19_v24xps.png">
 
 ## 📦 Installation
 
