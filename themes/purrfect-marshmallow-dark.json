@@ -11,7 +11,9 @@
         "editor.inactiveSelectionBackground": "#B57DFF33",
         "editor.lineHighlightBackground": "#3A3449",
 
-        "sideBar.background": "#2A2638",
+		"sideBar.background": "#2A2638",
+		"sideBar.border": "#3A3450",
+		"secondarySideBar.border": "#3A3450",
         "activityBar.background": "#3A3450",
         "activityBar.foreground": "#EAD9FF",
         "activityBar.activeBorder": "#FF9EDC",
